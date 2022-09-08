@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* #logsRecord {
+  max-width: 700px;
+  min-width: 300px;
+} */
+
+li {
+  word-wrap: break-word;
+  padding: 10px 0px;
+}
+
+/* small {
+  display: flex;
+  justify-content: flex-start;
+} */
+
+p {
+  color: #064e3b;
+  word-wrap: break-word;
+}
